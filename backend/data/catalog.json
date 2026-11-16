@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "code": "ITB-0001",
+    "title": "Calculus: Early Transcendentals",
+    "author": "James Stewart",
+    "callNumber": "515 STE c",
+    "location": "Lantai 2, Rak A3",
+    "year": 2015
+  },
+  {
+    "id": 2,
+    "code": "ITB-0002",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen dkk.",
+    "callNumber": "005.1 COR i",
+    "location": "Lantai 2, Rak C1",
+    "year": 2022
+  },
+  {
+    "id": 3,
+    "code": "ITB-0003",
+    "title": "Mastering Ethereum",
+    "author": "Andreas M. Antonopoulos, Gavin Wood",
+    "callNumber": "005.74 ANT m",
+    "location": "Lantai 3, Rak D2",
+    "year": 2018
+  },
+  {
+    "id": 4,
+    "code": "ITB-0004",
+    "title": "Fundamentals of Physics",
+    "author": "David Halliday, Robert Resnick, Jearl Walker",
+    "callNumber": "530 HAL f",
+    "location": "Lantai 2, Rak B4",
+    "year": 2018
+  },
+  {
+    "id": 5,
+    "code": "ITB-0005",
+    "title": "Computer Networks",
+    "author": "Andrew S. Tanenbaum, David J. Wetherall",
+    "callNumber": "004.6 TAN c",
+    "location": "Lantai 3, Rak D5",
+    "year": 2011
+  }
+]
